@@ -1,2 +1,6 @@
 # Floods in Kerala
-A Gaussian Naive Bayes model to predict chances of flooding in Kerala based on average monthly rainfall. More details are available in the notebook.
+
+Two different models are attempted in this work.
+- A Gaussian Naive Bayes classifier to predict floods based on rainfall
+- A deep learning framework to model monthly rainfall from temperature data
+More details and detailed description are provided in the notebook.
